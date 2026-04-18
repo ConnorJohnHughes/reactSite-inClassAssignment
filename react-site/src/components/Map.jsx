@@ -5,7 +5,7 @@ export default function Map(){
         <section className="map-section" id="map">
             <h2 className="map-title">The Journey of the Fellowship</h2>
             <div className="map-container">
-                <img src="/img/Travel-map.webp" alt="middle-earth-map" className="map-img"/>
+                <img src="img/Travel-map.webp" alt="middle-earth-map" className="map-img"/>
             </div>
 
             <ul className="map-facts">
