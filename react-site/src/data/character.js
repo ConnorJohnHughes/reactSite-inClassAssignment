@@ -57,11 +57,11 @@ export const characters = [
   },
     {
     name: "Frodo Baggins",
-    image: "img/Frodo.png",
-    region: "The Shire",
+    image: "/Frodo.png",
+    region: "The Shire-",
     stats: "Willpower, resilience, stealth",
     details: ["Age: 50", "Strength: High mental endurance", "Faction: Fellowship / Hobbits"],
-    map: "/img/Frodo-map.png",
+    map: "/Frodo-map.png",
     facts: ["Ring bearer", "Resists the One Ring", "Nephew of Bilbo", "Sails to the Undying Lands"]
   },
   {
