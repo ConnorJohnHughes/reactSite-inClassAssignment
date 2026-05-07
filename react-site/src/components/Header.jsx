@@ -9,7 +9,7 @@ export default function Header() {
       <nav>
         <a href="#hero" className="nav-link">HOME</a>
         <a href="#map" className="nav-link">MAP</a>
-        <a href="#heroes" className="nav-link">HEROES</a>
+        <a href="heroes" className="nav-link">HEROES</a>
         <a href="#villains" className="nav-link">VILLAINS</a>
       </nav>
     </header>

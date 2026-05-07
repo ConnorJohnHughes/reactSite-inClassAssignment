@@ -23,7 +23,7 @@ function App() {
       <Map />
       <section>
         <h1 className='card-title' id="heroes">Heroes of Lord of The Rings</h1>
-          {characters.map((char, index) =>(
+          {characters.map((_, index) =>(
             <GoodGuys key={index} character={char}/>
           ))}
       </section>
